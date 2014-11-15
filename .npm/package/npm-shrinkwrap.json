@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "google-libphonenumber": {
+      "version": "0.1.0",
+      "dependencies": {
+        "seegno-closure-library": {
+          "version": "20140725.0.5"
+        }
+      }
+    }
+  }
+}
