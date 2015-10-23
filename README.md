@@ -11,7 +11,7 @@ Exports `LibPhoneNumber` on server only.
 ####Example usage:
 
     if (Meteor.isServer()) {
-      var util = LibPhoneNumber.phoneUtil;
+      var util = LibPhoneNumber.PhoneNumberUtil.getInstance();
       var format = LibPhoneNumber.PhoneNumberFormat;
       var types = LibPhoneNumber.PhoneNumberType;
 
