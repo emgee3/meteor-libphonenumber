@@ -5,7 +5,7 @@ Package.describe({
   git: 'https://github.com/emgee3/meteor-libphonenumber.git'
 });
 
-Npm.depends({ 'google-libphonenumber' : '0.1.0' });
+Npm.depends({ 'google-libphonenumber' : '1.0.7' });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
