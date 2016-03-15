@@ -1,11 +1,11 @@
 Package.describe({
   name: 'emgee:libphonenumber',
-  summary: '(wrapper) Library for parsing, formatting, storing and validating international phone numbers',
-  version: '0.1.0',
+  summary: '[DEPRECATED] (wrapper) Library for parsing, formatting, storing and validating international phone numbers',
+  version: '1.0.15',
   git: 'https://github.com/emgee3/meteor-libphonenumber.git'
 });
 
-Npm.depends({ 'google-libphonenumber' : '1.0.7' });
+Npm.depends({ 'google-libphonenumber' : '1.0.15' });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
