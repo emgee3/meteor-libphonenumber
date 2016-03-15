@@ -1,3 +1,9 @@
+DEPRECATED
+==========
+
+As of Meteor 1.3 this wrapper is no longer needed. No further updates will be done.
+
+
 meteor-libphonenumber
 =====================
 
