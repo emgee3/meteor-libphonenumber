@@ -1,6 +1,6 @@
 Package.describe({
   name: 'emgee:libphonenumber',
-  summary: '[DEPRECATED] (wrapper) Library for parsing, formatting, storing and validating international phone numbers',
+  summary: '[DEPRECATED] (wrapper) Library for parsing, formatting, storing and validating intl phone numbers',
   version: '1.0.15',
   git: 'https://github.com/emgee3/meteor-libphonenumber.git'
 });
